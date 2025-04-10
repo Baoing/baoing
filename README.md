@@ -6,7 +6,7 @@
 
 ### I'm Baoing
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- A Shopify front-end programmer. & Open Source enthusiast.
 - 🌱 Currently working in Shenzhen, China.
 - 💬 Ask me about Javavascript, TypeScript and my projects on [will@baoea.com](mailto:will@baoea.com)
 - ⭐ You may like [React hooks](https://github.com/Baoing/hooks) 、[Next template](https://github.com/Baoing/next-template) 
@@ -35,7 +35,6 @@
 ### 开源项目
 - [React hooks](https://github.com/Baoing/hooks)
 - [一个简洁优雅的Nextjs template主题](https://github.com/Baoing/next-template)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
 
 ### 关于我
 - [技术笔记](https://shopify.baoea.com/)
