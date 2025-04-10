@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Baoing/baoing/blob/main/pusheencode.gif" />
 
-### I'm Will
+### I'm Baoing
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Shenzhen, China.
@@ -43,4 +43,4 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [Will](https://github.com/baoing)
+⭐️ From [Baoing](https://github.com/baoing)
