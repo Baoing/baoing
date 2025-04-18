@@ -37,7 +37,7 @@
 - [一个简洁优雅的Nextjs template主题](https://github.com/Baoing/next-template)
 
 ### 关于我
-- [技术笔记](https://shopify.baoea.com/)
+- [Shopify技术笔记](https://shopify.baoea.com/)
 - [CSDN](https://blog.csdn.net/weixin_44510200)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
