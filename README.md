@@ -32,14 +32,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- [React hooks](https://github.com/Baoing/hooks)
-- [一个简洁优雅的Nextjs template主题](https://github.com/Baoing/next-template)
-
-### 关于我
-- [Shopify技术笔记](https://shopify.baoea.com/)
-- [CSDN](https://blog.csdn.net/weixin_44510200)
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
 ⭐️ From [Baoing](https://github.com/baoing)
