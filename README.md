@@ -8,7 +8,6 @@
 
 - A Shopify front-end programmer. & Open Source enthusiast.
 - 🌱 Currently working in Shenzhen, China.
-- 💬 Ask me about Javavascript, TypeScript and my projects on [will@baoea.com](mailto:will@baoea.com)
 - ⭐ You may like [React hooks](https://github.com/Baoing/hooks) 、[Next template](https://github.com/Baoing/next-template) 
 - ⚡ Fun fact: Data Analysis📊
 
