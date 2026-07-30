@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello 👋
 
 <img align="right" alt="GIF" src="https://github.com/Baoing/baoing/blob/main/pusheencode.gif" />
 
