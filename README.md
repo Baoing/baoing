@@ -1,17 +1,14 @@
-[comment]: <> (# 模板合集：https://github.com/kautukkundan/Awesome-Profile-README-templates)
-
 ## Hello GitHub Fans 👋
 
 <img align="right" alt="GIF" src="https://github.com/Baoing/baoing/blob/main/pusheencode.gif" />
 
-### I'm Baoing
+### About
 
 - A Shopify front-end programmer. & Open Source enthusiast.
 - 🌱 Currently working in Shenzhen, China.
-- ⭐ You may like [React hooks](https://github.com/Baoing/hooks) 、[Next template](https://github.com/Baoing/next-template) 
 - ⚡ Fun fact: Data Analysis📊
 
-### 🛠 技术栈 | Tech Stack
+### Tech Stack
 
 - 💻 &#160; ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
