@@ -7,6 +7,7 @@
 - A Shopify front-end programmer. & Open Source enthusiast.
 - 🌱 Currently working in Shenzhen, China.
 - ⚡ Fun fact: Data Analysis📊
+- ![Shopify 教程](https://shopify.baoea.com)
 
 ### Tech Stack
 
